@@ -1,2 +1,2 @@
 # hellossl
-examples of ssl
+examples of SSL/TLS
